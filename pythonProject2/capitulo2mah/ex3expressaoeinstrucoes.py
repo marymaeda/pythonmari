@@ -1,7 +1,7 @@
 n = 17
 m =20
 
-#isto é uma expressao
+#isto é uma expressão
 #expressoes podem ser a combinacao de variaveis
 #valores e operadores
 
