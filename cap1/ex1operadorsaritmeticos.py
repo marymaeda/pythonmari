@@ -13,3 +13,4 @@ divisao = 2 / 1
 #operador de exponenciacao(poncia)
 exponenciacao = 2 ** 1
 
+
